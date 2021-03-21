@@ -1,6 +1,6 @@
 {
   "name": "notes-app",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Proyecto app notas",
   "main": "index.js",
   "scripts": {

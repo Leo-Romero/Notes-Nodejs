@@ -6,3 +6,6 @@ v 0.0.1
 v 0.0.2
 - vistas base
 
+v 0.0.3
+- Seteo de mongo
+- Creación de tarjetas de notas
